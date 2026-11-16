@@ -79,5 +79,4 @@ This analysis addresses two practical decision-making frameworks:
 * **For Consumers:** Relying solely on exercise to offset fast-food meals requires hours of high-intensity effort. Combine **portion control (reducing meals to 50%–75%)** with workouts matched to personal fitness levels, prioritizing lower saturated fat items.
 * **For Food Retailers:** Increase menu transparency by displaying saturated fat, sodium, and estimated exercise burn-time equivalents alongside standard calorie counts.
 
-*
 ```[cite: 1, 2, 3, 4, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 18, 20, 21, 22, 24, 25]
