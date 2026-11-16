@@ -10,10 +10,10 @@ A comprehensive data analysis project exploring the caloric and nutritional burd
 
 ## 👥 Project Team (Group 3)
 
-* **Kaung Khant Lynn** (DAML B3 01)
-* **Hsu San Lwin** (DAML B3 51)
-* **Phyo Thiha Kyaw** (DAML B3 32)
-* **Thadar Hsu** (DAML B3 18)
+* **Kaung Khant Lynn** 
+* **Hsu San Lwin** 
+* **Phyo Thiha Kyaw** 
+* **Thadar Hsu(Gwenn)** 
 
 **Project Guidance:** Ko Kyaw Kyaw Htut *(Founder of Ace of Data)*
 
